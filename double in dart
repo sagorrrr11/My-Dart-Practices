@@ -1,5 +1,5 @@
 void main (){
-  // <datatybe> <variablename> = value;
+  // <datatype> <variablename> = value;
   double firstvalue = 44.45;
   double secondvalue = 46.64;
   double thirdvalue = 43.44;
