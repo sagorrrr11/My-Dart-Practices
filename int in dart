@@ -1,6 +1,6 @@
 void main (){
   // variables
-  // <datatybe> <variablename> - value;
+  // <datatybe> <variablename> = value;
   int firstvalue = 44;
   int secondvalue = 46;
   int thirdvalue = 43;
