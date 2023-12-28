@@ -1,6 +1,6 @@
 void main (){
   // variables
-  // <datatybe> <variable> = value;
+  // <datatybe> <variablename> = value;
   String firstvalue = 'Hello World!';
   String secondvalue = " I am Sagor.";
   print(firstvalue + secondvalue);
